@@ -1,0 +1,16 @@
+C:\Users\suzuk\projects\testtest\bin\Debug\net5.0\testtest.exe
+C:\Users\suzuk\projects\testtest\bin\Debug\net5.0\testtest.deps.json
+C:\Users\suzuk\projects\testtest\bin\Debug\net5.0\testtest.runtimeconfig.json
+C:\Users\suzuk\projects\testtest\bin\Debug\net5.0\testtest.runtimeconfig.dev.json
+C:\Users\suzuk\projects\testtest\bin\Debug\net5.0\testtest.dll
+C:\Users\suzuk\projects\testtest\bin\Debug\net5.0\ref\testtest.dll
+C:\Users\suzuk\projects\testtest\bin\Debug\net5.0\testtest.pdb
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.csprojAssemblyReference.cache
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.AssemblyInfoInputs.cache
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.AssemblyInfo.cs
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.dll
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\ref\testtest.dll
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.pdb
+C:\Users\suzuk\projects\testtest\obj\Debug\net5.0\testtest.genruntimeconfig.cache
